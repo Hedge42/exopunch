@@ -1,0 +1,26 @@
+{
+    "name": "Exopunch.Core",
+    "rootNamespace": "",
+    "references": [
+        "Cinemachine",
+        "Unity.Addressables",
+        "Unity.AI.Navigation",
+        "Unity.RenderPipelines.Universal.Runtime",
+        "Unity.Timeline",
+        "Unity.InputSystem",
+        "Unity.Splines",
+        "UnityEngine.UI",
+        "UniTask",
+        "UniTask.Linq",
+        "UniTask.Addressables"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
